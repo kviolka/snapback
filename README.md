@@ -3,7 +3,7 @@ snapback
 
 A powershell script for convenient Windows backups using Drive Snapshot (http://www.drivesnapshot.de/en/index.htm)
 
-why Drive Snapshot?
+Why Drive Snapshot?
 ===================
 
 Drive Snapshot is a very nice imaging utility for Windows. It saves complete systems to image files during
