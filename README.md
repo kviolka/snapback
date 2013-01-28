@@ -12,4 +12,4 @@ normal operation and does not need to be installed permanently, because it comes
 Why this script?
 ================
 
-Drive Snapshot contains only the basic functions, for complete automation of the backup strategy we need a script.
+Drive Snapshot contains only the basic functions, this script provides complete automation of the backup strategy.
