@@ -121,7 +121,6 @@ foreach ($sourceDrive in $sourceDrives) {
   if ($hash) {
     Write-Host "hash found -> $hash"
     $size = getSizeOfLastDiffImage $destinationPath $hash
-    #Write-Host $size
     $mbytes = "{0:N2}" -f ($size / 1MB) + " MB"
     Write-Host "Size of last diff image:" $mbytes 
     if ($size -gt $maxDiffSize) {
