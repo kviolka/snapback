@@ -21,7 +21,7 @@ uses differential images, and creates a new full image automatically when the di
 How to use
 ----------
 
-At the moment all config variables are directly in the script, no external config yet.
+At the moment all config variables are directly in the script, no external config yet. This is work in progress...
 
 
 Questions?
