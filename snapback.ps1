@@ -6,7 +6,6 @@
 #
 # IDEA: Clean old backups
 # IDEA: SFTP, Amazon S3
-# IDEA: Do fullbackup when diff gets bigger than fullbackup/7.
 
 # ---------- <Configuration>
 $snapshotExe = "c:\tools\snapshot.exe"    # path to snapshot.exe
