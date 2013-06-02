@@ -1,5 +1,5 @@
-snapback
-========
+snapback.ps1
+============
 
 A Powershell script for convenient Windows backups using Drive Snapshot (http://www.drivesnapshot.de/en/index.htm)
 
